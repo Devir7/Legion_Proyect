@@ -1,5 +1,5 @@
-# ![logo](https://github.com/Devir7/Legion_Proyect/blob/V2/icono-Nordrassil-Gold.png)
-# Nordrassil Core 
+# Nordrassil Core<img src="https://github.com/Devir7/Legion_Proyect/blob/V2/icono-Nordrassil-Gold.png"  width="50px">
+
 VS 2019 x64
 boost 1.64
 openssl 1.1.1s
